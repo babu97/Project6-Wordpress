@@ -1,6 +1,6 @@
 ### STEP 1 -PREPARE A WEB SERVER 
 Launch an EC2 instance that will serve as "Web Server". Create 3 volumes in the same AZ as your Web Server EC2, each of 10 GiB.
-![](/)
+![](/volumes.PNG)
 
 2.attach all three volumes one by one to your web server EC2 instance
 ![](/attach.PNG)
